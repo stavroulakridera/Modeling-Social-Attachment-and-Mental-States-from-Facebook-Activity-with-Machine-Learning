@@ -29,6 +29,6 @@ It includes my own implementations of the attachment strength formulas (original
    	+ 0.27 × (Comments)
 
 ## Notes
-- Rows ID1–ID10 in both datasets replicate the paper exactly.  
-- Rows ID1–ID50 are synthetic but consistent with the same ranges.  
+- Rows temp1–temp50 in both datasets replicate the paper exactly.  
+- Rows temp1–temp50 are synthetic but consistent with the same ranges.  
 - This work extends the original repository **team2-ethi-mental-state** with customized data and formulas for publication purposes.
